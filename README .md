@@ -1,4 +1,4 @@
-# CREDIT-CAD-FRAUD-DETECTION-SYSTEM
+# CREDIT-CARD-FRAUD-DETECTION-SYSTEM
 
 ## OVERVIEW
 This project focuses on detecting fraudulent credit card transactions using machine learning techniques.
